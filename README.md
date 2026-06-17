@@ -1419,7 +1419,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **Z**
-  -  [Zakary CHAUVE](https://github.com/MountainEnjoyer)
+  - [Zakary CHAUVE](https://github.com/MountainEnjoyer)
   - [Zubaida Sehnaz](https://github.com/Zubaida0113)
   - [ZEUGANG WILSON PRODIGE](https://github.com/wilsonprodige)
   - [Zoey](https://github.com/zoey-11)
